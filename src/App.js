@@ -8,6 +8,7 @@ function App() {
       <p>Testing App</p>
       <p>Version 1.0</p>
       <p>Jan 6 2023</p>
+      <p>Testing automatic deployment</p>
       </header>
     </div>
   );
